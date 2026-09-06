@@ -71,6 +71,36 @@ project/
 
 ---
 
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](screenshots/main-interface.png)
+
+### Grayscale
+![Grayscale](screenshots/grayscale.png)
+
+### Inversion
+![Inversion](screenshots/inversion.png)
+
+### Horizontal Flip
+![Horizontal Flip](screenshots/horizontal-flip.png)
+
+### Vertical Flip
+![Vertical Flip](screenshots/vertical-flip.png)
+
+### Rotation
+![Rotation](screenshots/rotation.png)
+
+### Blur
+![Blur](screenshots/blur.png)
+
+### Sharpen
+![Sharpen](screenshots/sharpen.png)
+
+
+---
+
+
 ## ⚙️ Requirements
 
 The following tools and libraries are required:
