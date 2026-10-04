@@ -6,7 +6,7 @@
 #include <im_image.h>
 #include <iupim.h>
 
-#include "custom.h"  // <--- "../include/custom.h" বাদ দিয়ে "custom.h" দাও
+#include "custom.h" 
 
 void setupGui(void)
 {
