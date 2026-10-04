@@ -82,10 +82,10 @@ project/
 ### Inversion
 ![Inversion](screenshots/inversion.png)
 
-### Horizontal Flip
+### Vertical Flip
 ![Horizontal Flip](screenshots/horizontal-flip.png)
 
-### Vertical Flip
+### Horizontal Flip
 ![Vertical Flip](screenshots/vertical-flip.png)
 
 ### Rotation
